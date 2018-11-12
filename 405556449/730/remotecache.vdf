@@ -1,0 +1,51 @@
+"730"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"11766"
+		"localtime"		"1536708091"
+		"time"		"1536708091"
+		"remotetime"		"1536708091"
+		"sha"		"e676881a070fa71b11cd1c2eaa95a2737c480cb0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/xhair3_backup.cfg"
+	{
+		"root"		"0"
+		"size"		"11758"
+		"localtime"		"1536707778"
+		"time"		"1536707778"
+		"remotetime"		"1536707778"
+		"sha"		"04e5886952590980a33e9d0b9703c560a825165f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/xhair3_shareconfig.cfg"
+	{
+		"root"		"0"
+		"size"		"11766"
+		"localtime"		"1536708085"
+		"time"		"1536708086"
+		"remotetime"		"1536708086"
+		"sha"		"e676881a070fa71b11cd1c2eaa95a2737c480cb0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/xhair3_shareconfig2.cfg"
+	{
+		"root"		"0"
+		"size"		"11766"
+		"localtime"		"1536708086"
+		"time"		"1536708086"
+		"remotetime"		"1536708086"
+		"sha"		"e676881a070fa71b11cd1c2eaa95a2737c480cb0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

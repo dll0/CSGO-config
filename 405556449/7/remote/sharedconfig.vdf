@@ -1,0 +1,17 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"DesktopShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"0"
+				"SteamDefaultDialog"		"#app_store"
+				"SurveyDate"		"2018-02-17"
+				"SurveyDateVersion"		"467382496360855732"
+			}
+		}
+	}
+}
